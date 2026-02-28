@@ -7,6 +7,8 @@
 # sudo apt install -y mpv
 #
 # Verify: mpv --vo=help | grep caca  (should show caca output)
+export TERM=xterm-256color
+
 echo "🙏 Live Demo Affirmation 🙏"
 sleep 0.5
 echo "Bless this demo we are about to present."
