@@ -20,7 +20,7 @@ sleep 1.5
 echo "In the name of engineers past and present."
 sleep 1.5
 clear
-mpv --no-audio --really-quiet --vo=caca --vf=scale=800:600,fps=5 --no-osc PrayerCut.mp4
+mpv --no-audio --really-quiet --vo=caca --vf=scale=800:600,fps=5 --no-osc affirmationVid.mp4
 echo "🙏 ---- AMEN ---- 🙏"
 sleep .5
 clear
