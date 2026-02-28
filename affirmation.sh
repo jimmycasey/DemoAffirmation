@@ -17,7 +17,7 @@ echo "Let stage nerves leave me smooth and right,"
 sleep 1.5
 echo "Keep my structure clean and my demo tight,"
 sleep 1.5
-echo "In the name of engineers past and present,"
+echo "In the name of engineers past and present."
 sleep 1.5
 clear
 mpv --no-audio --really-quiet --vo=caca --vf=scale=800:600,fps=5 --no-osc PrayerCut.mp4
