@@ -19,6 +19,13 @@ chmod +x affirmation.sh
 </table>
 
 
+
+
+https://github.com/user-attachments/assets/eead81b8-dbcd-414f-8973-3815ef79f62b
+
+
+
+
 ## 🛠️ Requirements
 
 ```bash
