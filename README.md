@@ -12,18 +12,10 @@ chmod +x affirmation.sh
 
 <table align="center"> 
   <tr> 
-    <td><img width="538" height="132" src="https://github.com/user-attachments/assets/4d1bcb11-1b0a-479b-b6c6-c3f117888012"></td>
     <td><img width="630" height="520" src="https://github.com/user-attachments/assets/3281ce4a-b0d2-4fd8-bdcb-6cb05f3c06cb"></td> 
     <td><img width="545" height="516" src="https://github.com/user-attachments/assets/c74e4d7a-4eb5-43b0-95a3-b894a54e6fd9"></td> 
   </tr> 
 </table>
-
-
-
-
-https://github.com/user-attachments/assets/eead81b8-dbcd-414f-8973-3815ef79f62b
-
-
 
 
 ## 🛠️ Requirements
